@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fq{
+    background:#074842;
+    color: #fcb416;
+
+}
+/* .faq_c{
+    background-color:rgba(193, 215, 243, 0.411);
+} */
+.para1,.para2,.para3,.para4,.para5,.para6,.para7,.para8{
+    display: none;
+    list-style-type: none;
+ }
+ #up1,#up2,#up3,#up4,#up5,#up6,#up7,#up8{
+   display: none;
+ }
+ #ju{
+   display: flex;
+   justify-content: space-between;
+ }
+ /* #faq{
+    display: none;
+ } */
+ #para1,#para2,#para3,#para4,#para5,#para6{
+    display: none;
+ }
